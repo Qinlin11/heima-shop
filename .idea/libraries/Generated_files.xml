@@ -1,0 +1,58 @@
+<component name="libraryTable">
+  <library name="Generated files" type="javaScript">
+    <properties>
+      <sourceFilesUrls>
+        <item url="file://$PROJECT_DIR$/dist/dev/mp-weixin/app.js" />
+        <item url="file://$PROJECT_DIR$/dist/dev/mp-weixin/components/XtxGuess.js" />
+        <item url="file://$PROJECT_DIR$/dist/dev/mp-weixin/components/XtxSwiper.js" />
+        <item url="file://$PROJECT_DIR$/dist/dev/mp-weixin/node-modules/@dcloudio/uni-ui/lib/uni-popup/uni-popup.js" />
+        <item url="file://$PROJECT_DIR$/dist/dev/mp-weixin/node-modules/@dcloudio/uni-ui/lib/uni-transition/uni-transition.js" />
+        <item url="file://$PROJECT_DIR$/dist/dev/mp-weixin/pages/cart/cart.js" />
+        <item url="file://$PROJECT_DIR$/dist/dev/mp-weixin/pages/category/category.js" />
+        <item url="file://$PROJECT_DIR$/dist/dev/mp-weixin/pages/category/components/PageSkeleton.js" />
+        <item url="file://$PROJECT_DIR$/dist/dev/mp-weixin/pages/goods/components/AddressPanel.js" />
+        <item url="file://$PROJECT_DIR$/dist/dev/mp-weixin/pages/goods/components/ServicePanel.js" />
+        <item url="file://$PROJECT_DIR$/dist/dev/mp-weixin/pages/goods/goods.js" />
+        <item url="file://$PROJECT_DIR$/dist/dev/mp-weixin/pages/hot/hot.js" />
+        <item url="file://$PROJECT_DIR$/dist/dev/mp-weixin/pages/index/components/CategoryPanel.js" />
+        <item url="file://$PROJECT_DIR$/dist/dev/mp-weixin/pages/index/components/CustomNavbar.js" />
+        <item url="file://$PROJECT_DIR$/dist/dev/mp-weixin/pages/index/components/HotPanel.js" />
+        <item url="file://$PROJECT_DIR$/dist/dev/mp-weixin/pages/index/components/PageSkeleton.js" />
+        <item url="file://$PROJECT_DIR$/dist/dev/mp-weixin/pages/index/index.js" />
+        <item url="file://$PROJECT_DIR$/dist/dev/mp-weixin/pages/login/login.js" />
+        <item url="file://$PROJECT_DIR$/dist/dev/mp-weixin/pages/my/my.js" />
+        <item url="file://$PROJECT_DIR$/dist/dev/mp-weixin/pagesMember/address-form/address-form.js" />
+        <item url="file://$PROJECT_DIR$/dist/dev/mp-weixin/pagesMember/address/address.js" />
+        <item url="file://$PROJECT_DIR$/dist/dev/mp-weixin/pagesMember/profile/profile.js" />
+        <item url="file://$PROJECT_DIR$/dist/dev/mp-weixin/pagesMember/settings/settings.js" />
+      </sourceFilesUrls>
+    </properties>
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/dist/dev/mp-weixin/app.js" />
+      <root url="file://$PROJECT_DIR$/dist/dev/mp-weixin/components/XtxGuess.js" />
+      <root url="file://$PROJECT_DIR$/dist/dev/mp-weixin/components/XtxSwiper.js" />
+      <root url="file://$PROJECT_DIR$/dist/dev/mp-weixin/node-modules/@dcloudio/uni-ui/lib/uni-popup/uni-popup.js" />
+      <root url="file://$PROJECT_DIR$/dist/dev/mp-weixin/node-modules/@dcloudio/uni-ui/lib/uni-transition/uni-transition.js" />
+      <root url="file://$PROJECT_DIR$/dist/dev/mp-weixin/pages/cart/cart.js" />
+      <root url="file://$PROJECT_DIR$/dist/dev/mp-weixin/pages/category/category.js" />
+      <root url="file://$PROJECT_DIR$/dist/dev/mp-weixin/pages/category/components/PageSkeleton.js" />
+      <root url="file://$PROJECT_DIR$/dist/dev/mp-weixin/pages/goods/components/AddressPanel.js" />
+      <root url="file://$PROJECT_DIR$/dist/dev/mp-weixin/pages/goods/components/ServicePanel.js" />
+      <root url="file://$PROJECT_DIR$/dist/dev/mp-weixin/pages/goods/goods.js" />
+      <root url="file://$PROJECT_DIR$/dist/dev/mp-weixin/pages/hot/hot.js" />
+      <root url="file://$PROJECT_DIR$/dist/dev/mp-weixin/pages/index/components/CategoryPanel.js" />
+      <root url="file://$PROJECT_DIR$/dist/dev/mp-weixin/pages/index/components/CustomNavbar.js" />
+      <root url="file://$PROJECT_DIR$/dist/dev/mp-weixin/pages/index/components/HotPanel.js" />
+      <root url="file://$PROJECT_DIR$/dist/dev/mp-weixin/pages/index/components/PageSkeleton.js" />
+      <root url="file://$PROJECT_DIR$/dist/dev/mp-weixin/pages/index/index.js" />
+      <root url="file://$PROJECT_DIR$/dist/dev/mp-weixin/pages/login/login.js" />
+      <root url="file://$PROJECT_DIR$/dist/dev/mp-weixin/pages/my/my.js" />
+      <root url="file://$PROJECT_DIR$/dist/dev/mp-weixin/pagesMember/address-form/address-form.js" />
+      <root url="file://$PROJECT_DIR$/dist/dev/mp-weixin/pagesMember/address/address.js" />
+      <root url="file://$PROJECT_DIR$/dist/dev/mp-weixin/pagesMember/profile/profile.js" />
+      <root url="file://$PROJECT_DIR$/dist/dev/mp-weixin/pagesMember/settings/settings.js" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
